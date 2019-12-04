@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5 {
 }
 
 body{
-	width:90%;
+	width:1000px;
 	margin: 0 auto;
 }
 header nav{
@@ -87,9 +87,9 @@ header nav{
 	/* max-width:100%; */
   /* } */
   .links{
-	width:50%;
+	width:55%;
 	display:inline-block;
-	margin-right:20%;
+	margin-right:13%;
 
   }
   nav a {
@@ -129,24 +129,24 @@ header nav{
 
   }
   .topSection{
-	margin: 0% 7% 4% 0;
+	margin: 0% 0% 4% 0;
 }
   .topSection div{
 
 	display:inline-block;
-	width:43%;
+	width:45%;
 	padding: 4% 0 0 0;
 	
   }
 
   .middle-img {
 	  margin: 0 auto;
-	  width:83%;
+	  width:90%;
 	  
   }
 
   .bottomSection{
-	margin: 4% 7% 4% 0%;
+	margin: 4% 0% 4% 0%;
 }
 
   .bottomSection div{
@@ -155,9 +155,11 @@ header nav{
 	width:30%;
 		
   }
-p {
-	font-size: 115%
-}
+  footer{
+	width:100%;
+	text-align: center;
+  }
+
   hr {
     display: block;
     height: 1px;
@@ -165,5 +167,5 @@ p {
     border-top: 1px solid black;
     margin: 1em 0;
 	padding: 0;
-	width:80%;
+	width:90%;
 }
