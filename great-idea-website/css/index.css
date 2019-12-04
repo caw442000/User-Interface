@@ -68,6 +68,10 @@ h1, h2, h3, h4, h5 {
 *{
 	border:2px solid grey;
 }
+
+body{
+	width:80%;
+}
 header nav{
 	width:100%;
 	border:2px solid grey;
@@ -83,12 +87,48 @@ header nav{
 	/* max-width:100%; */
   /* } */
   .links{
-	width:60%;
+	width:50%;
 	display:inline-block;
-	margin-right:25%;
+	margin-right:20%;
 
   }
   nav a {
-	  margin:0 5%;
+	  margin:0 3%;
+	  
+  }
+.innovation {
+	margin:0 4%;
+	padding: 10% 0;
+	border: 2px solid grey;
+	text-align:center;
+
+  } 
+
+  header div {
+	display:inline-block;
+	width:43%;
+	
+
+  }
+  header h1{
+	font-size: 300%;
+	margin:4%0 auto;
+  }
+  header img{
+	
+	padding: 7%;
+	border: 2px solid grey;
+
+	
+
+  }
+  h5 {
+	  width:40%;
+	  border: 1px solid grey;
+	  margin: 0 auto;
+
+  }
+
+  .topSection{
 	  
   }
